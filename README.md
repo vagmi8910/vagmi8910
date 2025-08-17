@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Vagmi G Bhat Hi, I’m Vagmi — a Machine Learning Enthusiast exploring AI, Data Science, and Deep Learning through projects and research.”</div>  
+### <div align="center">I'm Vagmi G Bhat — a Machine Learning Enthusiast exploring AI, Data Science, and Deep Learning through projects and research.”</div>  
   
 <br/>  
 ## Hey 👋, I'm Vagmi G Bhat!
@@ -15,6 +15,7 @@
 <a href="https://www.linkedin.com/in/vagmi-g-bhat-200056356" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+<br/>
 ### Glad to see you here!  
 <br/>  
 
