@@ -75,7 +75,7 @@
     <img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="70"/>
   </a>
 </div>
-<h3 align="left">Stars</h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<h3 align="left">Stats</h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <div align="center">
   <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagmi8910&layout=compact&theme=highcontrast" alt=vagmi8910 />
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=vagmi8910&show_icons=true&locale=en&theme=midnight-purple" alt="vagmi8910" /><br> <br> <br> <br> <br> 
