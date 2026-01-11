@@ -5,7 +5,7 @@
 ---
 
 # 👋 Hey, I'm Vagmi G Bhat!  
-### 💡 A Machine Learning Enthusiast exploring **AI, Data Science, and Deep Learning** through projects and research.  
+### 💡 A Machine Learning enthusiast exploring AI, Data Science, and Deep Learning through projects and research, with a growing focus on building agentic AI systems using LangGraph and LangChain.  
 
 ---
 
