@@ -67,19 +67,29 @@
 <a href="https://www.tensorflow.org/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" height="60"/>
 </a>
-<a href="https://www.langchain.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain-logo.png" alt="LangChain" height="60"/>
-</a>
-<a href="https://langgraph.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/langgraph-logo.png" alt="LangGraph" height="60"/>
-</a>
-<a href="https://groq.com/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/133352085?s=200&v=4" alt="Groq" height="60"/>
-</a>
-<a href="https://streamlit.io/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/streamlit.svg" alt="Streamlit" height="60"/>
-</a>
+<!-- LangChain -->
+  <a href="https://www.langchain.com/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4"
+         alt="LangChain" height="50"/>
+  </a>
 
+  <!-- LangGraph -->
+  <a href="https://langgraph.dev/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/149570668?s=200&v=4"
+         alt="LangGraph" height="50"/>
+  </a>
+
+  <!-- Groq -->
+  <a href="https://groq.com/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/133352085?s=200&v=4"
+         alt="Groq" height="50"/>
+  </a>
+
+  <!-- Streamlit -->
+  <a href="https://streamlit.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg"
+         alt="Streamlit" height="50"/>
+  </a>
 
 <a href="https://jupyter.org/" target="_blank">
   <img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="Jupyter" height="60"/>
