@@ -35,6 +35,7 @@
   <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="60"/>
 </a>
 
+
 <a href="https://www.cprogramming.com/" target="_blank">
   <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="60"/>
 </a>
@@ -66,6 +67,19 @@
 <a href="https://www.tensorflow.org/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" height="60"/>
 </a>
+<a href="https://www.langchain.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain-logo.png" alt="LangChain" height="60"/>
+</a>
+<a href="https://langgraph.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/langgraph-logo.png" alt="LangGraph" height="60"/>
+</a>
+<a href="https://groq.com/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/133352085?s=200&v=4" alt="Groq" height="60"/>
+</a>
+<a href="https://streamlit.io/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/streamlit.svg" alt="Streamlit" height="60"/>
+</a>
+
 
 <a href="https://jupyter.org/" target="_blank">
   <img src="https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="Jupyter" height="60"/>
